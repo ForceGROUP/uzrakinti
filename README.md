@@ -17,3 +17,13 @@ cd uzrakinti
 ls
 
 python2 uzrakint.py
+
+
+
+
+
+(
+/sdcard/atrakintas.sh
+/sdcard/uzrakintas.sh
+
+)
