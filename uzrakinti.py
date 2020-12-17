@@ -28,8 +28,8 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}TUZAS
-{}   FqM            MMMM    {}Telegram       {}: {}@TuzasForce
+   HZM            MMMM    {}Coded by {}: {}Force
+{}   FqM            MMMM    {}Telegram{}: {}@TuzasForce
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
 {}_)      \.{}___.{},|     .'
