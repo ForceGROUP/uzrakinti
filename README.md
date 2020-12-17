@@ -23,7 +23,9 @@ python2 uzrakint.py
 
 
 (
+
 /sdcard/atrakintas.sh
+
 /sdcard/uzrakintas.sh
 
 )
