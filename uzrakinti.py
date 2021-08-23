@@ -73,7 +73,7 @@ def enkrip():
    try:
        script = raw_input(ask + W + "Script " + G + "> " + W)
        output = raw_input(ask + W + "Output " + G + "> " + W)
-       os.system("bash-uzrakinti " + script + " -o " + output )
+       os.system("bash-obfuscate " + script + " -o " + output )
        print (sukses + "Done..")
    except KeyboardInterrupt:
        print (eror + " Stopped!")
