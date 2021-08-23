@@ -8,7 +8,7 @@ pkg install python2
 
 pkg install nodejs
 
-npm install -g bash-uzrakinti
+npm install -g bash-obfuscate
 
 git clone https://github.com/ForceGROUP/uzrakinti
 
